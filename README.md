@@ -16,7 +16,7 @@ Hexlet
   - [Вычислитель отличий (frontend-project-46)](https://github.com/Oksana1992-hash/frontend-project-46)
   - [RSS агрегатор (frontend-project-11)](https://github.com/Oksana1992-hash/frontend-project-11)
   - [Чат (Slack) (frontend-project-12)](https://github.com/Oksana1992-hash/frontend-project-12)
-  - [Продажи (data-analytics-project-92)](https://github.com/Oksana1992-hash/data-analytics-project-92)
+  - [Ассинхронный сервис кошельков (wallet_project)](https://github.com/Oksana1992-hash/wallet_project)
 
 ### Август 2014 года – сентябрь 2023 года🏢
 [ООО «Гидротех»](https://hydrotech.ru/)
